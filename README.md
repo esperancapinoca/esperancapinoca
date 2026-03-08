@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello 👋 I'm Esperança Pinoca
+🇲🇿 From Mozambique
 
-<!--
-**esperancapinoca/esperancapinoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor's Degree in Software Development 
+💻 Passionate about technology and software engineer
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+I’m currently improving my programming skills, working on real projects, and practicing my English while growing as a software developer.
+My goal is to become a professional software developer and contribute to impactful software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Web Development: HTML, CSS, JavaScript
+- Backend Development: JavaScript (Node.js), Python, Django
+- Databases: PostgreSQL
+
+## 🎯Goals
+- Become a professional software developer
+- Build more real-world projects
+- Improve my English communication skills
+- Continue learning and growing in software engineering
