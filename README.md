@@ -9,8 +9,7 @@ I’m currently improving my programming skills, working on real projects, and p
 My goal is to become a professional software developer and contribute to impactful software projects.
 
 ## 🛠 Skills
-- Web Development: HTML, CSS, JavaScript
-- Backend Development: JavaScript (Node.js), Python, Django
+- Backend Development: Python & Django
 - Databases: PostgreSQL
 
 ## 🎯Goals
